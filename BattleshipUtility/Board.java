@@ -1,5 +1,5 @@
 /**
- * @author Mike Yu, Bryson Mineart
+ * @author Mike Yu
  * This class represent the board of the game, each player should have two in the model.
  */
 
